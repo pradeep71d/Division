@@ -1,0 +1,2 @@
+include ':app', ':divlib'
+rootProject.name='MySdk4'
